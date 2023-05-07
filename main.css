@@ -7,3 +7,15 @@ html, body {
     height: 100%;
     width: 100%;
 }
+
+#main_title{
+    text-align: center;
+}
+
+#introduction{
+    text-align: center;
+}
+
+#favorite_singer{
+    text-align: center;
+}
